@@ -1,0 +1,19 @@
+{
+  "name": "countries-and-provinces-states-regions",
+  "version": "1.0.0",
+  "description": "Countries and Provinces / States / Regions ==========================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sprokets/countries-and-provinces-states-regions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sprokets/countries-and-provinces-states-regions/issues"
+  },
+  "homepage": "https://github.com/Sprokets/countries-and-provinces-states-regions#readme"
+}
